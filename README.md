@@ -4,6 +4,9 @@
 
 This project aims to analyze an automobile dataset to explore relationships between various factors such as car length, mileage, body style, and engine types. The goal is to provide insights into how these attributes influence car design, performance, and fuel efficiency. The analysis helps in understanding the patterns that can guide consumers in making informed decisions based on their preferences for body style, mileage, and engine type.
 
+![image](https://github.com/user-attachments/assets/744d616e-f3a3-49ae-885c-0088a5eff22c)
+
+
 ## Key Objectives
 
 - **Data Exploration**: Understanding the unique categories in the dataset, such as car companies, body styles, and engine types.
